@@ -20,7 +20,7 @@ variable aws_region {
   default = "eu-central-1"
 }
 
-variable aws_access_key_id { default ="AKIA246QIV735GH4EADF" }
-variable aws_secret_access_key { default ="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" }
+variable aws_access_key_id { default ="" }
+variable aws_secret_access_key { default ="" }
 
 
